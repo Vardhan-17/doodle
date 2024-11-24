@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: doodle
+
+logging:
+  level:
+    org.springframework.messaging.simp: DEBUG
+    org.springframework.web.socket: DEBUG
+

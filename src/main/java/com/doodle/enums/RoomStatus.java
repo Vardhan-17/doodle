@@ -1,0 +1,5 @@
+package com.doodle.enums;
+
+public enum RoomStatus {
+    WAITING, CHOOSING_WORD, GUESSING_IN_PROGRESS, GUESSING_COMPLETED, ROUND_COMPLETED, GAME_COMPLETED
+}
